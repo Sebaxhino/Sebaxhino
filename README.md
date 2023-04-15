@@ -1,4 +1,4 @@
-Hola!, Soy Sebaxhino👋
+<h1>Hola!, Soy Sebaxhino👋</h1>
 
 #
 - 💻 Desarrollo en Javascript junto con HTML y CSS
