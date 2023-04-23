@@ -1,7 +1,7 @@
 <h1>Hola!, Soy Sebaxhino👋</h1>
 
 #
-- 💻 Actualmente desarrollo en Javascript junto con HTML y CSS
+- 👨‍💻 Actualmente desarrollo en Javascript junto con HTML y CSS
 - 💻 Otros: C++, Java, Python
 - 🔭 Estoy trabajando en un Bot de Discord.js llamado **GoodFly**
 - 👯 Buscando colaborar con otros desarolladores 😉
