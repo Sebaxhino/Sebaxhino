@@ -4,7 +4,7 @@
 
 #
 - 👨‍💻 Actualmente desarrollo en Javascript junto con HTML y CSS
-- 💻 Otros: Python,php,C++
+- 💻 Otros: C++
 - 🔭 Estoy trabajando en un Bot de Discord llamado **GoodFly**
 - 👯 Buscando colaborar con otros desarolladores 😉
 - 🥅 2023 Metas: Back End Developer
