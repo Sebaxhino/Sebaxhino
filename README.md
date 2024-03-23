@@ -12,7 +12,7 @@
 
 <h3 align="center">Languages/Runtimes</h3>
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,cpp,c,css,html,ahk&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,cpp,c,css,html&theme=dark" />
 </div>
 
 <h3 align="center">Frameworks</h3>
