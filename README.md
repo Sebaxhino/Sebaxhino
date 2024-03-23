@@ -25,7 +25,7 @@
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,git,webpack,rollupjs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,bash,git,webpack&theme=dark" />
 </div>
 
 <h3 align="center">Databases</h3>
@@ -35,5 +35,5 @@
 
 <h3 align="center">Design</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ai,ae,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,bootstrap&theme=dark" />
 </div>
