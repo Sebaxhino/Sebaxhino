@@ -32,5 +32,5 @@
 
 <h3 align="center">Design</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ai,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ps,ai&theme=dark" />
 </div>
